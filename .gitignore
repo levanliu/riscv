@@ -1,0 +1,5 @@
+build/
+tmp/
+mini_cpu/tmp/tb_top.o
+mini_cpu/tmp/tb_top.vcd
+mini_cpu/tmp/
